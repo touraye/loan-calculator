@@ -9,4 +9,9 @@ This is a simple loan calculator:
 
 The result will be shown below with the details you filled in for `interest`, `month` and sum of the amount that should be paid `Total-Pay`
 
- 
+Work on progress.
+
+Contribution are highly invited.
+
+[See Demo](https://touraye.github.io/loan-calculator/)
+
